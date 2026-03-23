@@ -1,5 +1,3 @@
-Voici un exemple de fichier README pour le projet "My_Space_Shooter" :
-
 ```markdown
 # My_Space_Shooter
 
@@ -51,6 +49,10 @@ Avant de compiler le projet, assurez-vous d'avoir installé les éléments suiva
    ```bash
    make
    ```
+
+## Commandes de jeu
+- **Déplacer** : Utilisez les touches **W**, **A**, **S**, **D** pour déplacer votre vaisseau.
+- **Tirer** : Appuyez sur la touche **Espace** pour tirer.
 
 ## Lancer le jeu
 Après la compilation, vous pouvez lancer le jeu avec la commande suivante :
